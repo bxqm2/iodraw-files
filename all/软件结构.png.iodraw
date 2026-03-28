@@ -49,6 +49,9 @@
         <mxCell id="V_rsDPK1fuGsLCgrljY0-20" value="RFID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="170" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="V_rsDPK1fuGsLCgrljY0-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
