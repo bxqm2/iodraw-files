@@ -22,8 +22,8 @@
         <mxCell id="0zO91f6fLmlza_f7x4CV-4" value="确认信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0zO91f6fLmlza_f7x4CV-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="0zO91f6fLmlza_f7x4CV-6" value="出库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
