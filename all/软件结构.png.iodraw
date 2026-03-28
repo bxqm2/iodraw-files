@@ -20,7 +20,7 @@
           <mxGeometry x="30" y="30" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-7" value="上位机监控调度系统" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="210" width="220" height="250" as="geometry" />
+          <mxGeometry x="250" y="60" width="220" height="250" as="geometry" />
         </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-8" value="WMS" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="v524W4K-b3iUWriyasiB-7">
           <mxGeometry x="20" y="30" width="180" height="100" as="geometry" />
