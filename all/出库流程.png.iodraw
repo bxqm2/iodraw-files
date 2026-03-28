@@ -28,8 +28,14 @@
         <mxCell id="0zO91f6fLmlza_f7x4CV-6" value="出库" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0zO91f6fLmlza_f7x4CV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0zO91f6fLmlza_f7x4CV-8" target="0zO91f6fLmlza_f7x4CV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0zO91f6fLmlza_f7x4CV-8" value="清除对应货品条目" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0zO91f6fLmlza_f7x4CV-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
