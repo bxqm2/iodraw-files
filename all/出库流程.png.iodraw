@@ -34,8 +34,14 @@
         <mxCell id="0zO91f6fLmlza_f7x4CV-8" value="清除对应货品条目" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0zO91f6fLmlza_f7x4CV-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0zO91f6fLmlza_f7x4CV-10" target="0zO91f6fLmlza_f7x4CV-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0zO91f6fLmlza_f7x4CV-10" value="修改货位信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0zO91f6fLmlza_f7x4CV-12" value="写入出库记录表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
