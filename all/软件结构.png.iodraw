@@ -65,7 +65,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-25" value="定位信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="355" y="308" width="70" height="30" as="geometry" />
+          <mxGeometry x="360" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v524W4K-b3iUWriyasiB-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v524W4K-b3iUWriyasiB-4" target="v524W4K-b3iUWriyasiB-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
