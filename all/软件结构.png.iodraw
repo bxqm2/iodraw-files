@@ -28,17 +28,17 @@
         <mxCell id="v524W4K-b3iUWriyasiB-9" value="仓储环境监控&lt;div&gt;入库管理&lt;/div&gt;&lt;div&gt;出库管理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v524W4K-b3iUWriyasiB-8">
           <mxGeometry x="40" y="30" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="v524W4K-b3iUWriyasiB-12" value="WMS" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="v524W4K-b3iUWriyasiB-7">
+          <mxGeometry x="20" y="140" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="v524W4K-b3iUWriyasiB-13" value="仓储环境监控&lt;div&gt;入库管理&lt;/div&gt;&lt;div&gt;出库管理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v524W4K-b3iUWriyasiB-12">
+          <mxGeometry x="40" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v524W4K-b3iUWriyasiB-3" target="v524W4K-b3iUWriyasiB-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v524W4K-b3iUWriyasiB-6" target="v524W4K-b3iUWriyasiB-7">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="v524W4K-b3iUWriyasiB-12" value="WMS" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="180" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="v524W4K-b3iUWriyasiB-13" value="仓储环境监控&lt;div&gt;入库管理&lt;/div&gt;&lt;div&gt;出库管理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v524W4K-b3iUWriyasiB-12">
-          <mxGeometry x="40" y="30" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
