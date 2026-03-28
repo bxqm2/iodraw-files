@@ -7,7 +7,7 @@
         <mxCell id="V_rsDPK1fuGsLCgrljY0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V_rsDPK1fuGsLCgrljY0-1" target="V_rsDPK1fuGsLCgrljY0-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V_rsDPK1fuGsLCgrljY0-1" value="工控机&lt;div&gt;（上位机）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V_rsDPK1fuGsLCgrljY0-1" value="工控机&lt;div&gt;（上位机端）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="130" width="120" height="360" as="geometry" />
         </mxCell>
         <mxCell id="V_rsDPK1fuGsLCgrljY0-2" value="仓储感知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -20,7 +20,10 @@
           <mxGeometry x="140" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V_rsDPK1fuGsLCgrljY0-6" value="嵌入式计算机&lt;div&gt;（机器人端）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="130" width="120" height="360" as="geometry" />
+          <mxGeometry x="480" y="130" width="120" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="V_rsDPK1fuGsLCgrljY0-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
