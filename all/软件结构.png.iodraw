@@ -14,7 +14,7 @@
           <mxGeometry x="20" y="150" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-5" value="人机交互层" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="10" width="160" height="110" as="geometry" />
+          <mxGeometry x="240" y="30" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-6" value="交互界面&lt;div&gt;信息批量输入&lt;/div&gt;&lt;div&gt;二维码生成&lt;/div&gt;&lt;div&gt;二维码扫描&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v524W4K-b3iUWriyasiB-5">
           <mxGeometry x="30" y="30" width="100" height="70" as="geometry" />
@@ -31,8 +31,8 @@
         <mxCell id="v524W4K-b3iUWriyasiB-12" value="全局路径规划" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="v524W4K-b3iUWriyasiB-7">
           <mxGeometry x="20" y="140" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="v524W4K-b3iUWriyasiB-13" value="仓储环境监控&lt;div&gt;入库管理&lt;/div&gt;&lt;div&gt;出库管理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v524W4K-b3iUWriyasiB-12">
-          <mxGeometry x="40" y="30" width="100" height="60" as="geometry" />
+        <mxCell id="v524W4K-b3iUWriyasiB-13" value="机器人的全局路径规划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="v524W4K-b3iUWriyasiB-12">
+          <mxGeometry x="20" y="45" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v524W4K-b3iUWriyasiB-3" target="v524W4K-b3iUWriyasiB-8">
           <mxGeometry relative="1" as="geometry" />
