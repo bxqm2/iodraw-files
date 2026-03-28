@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="V_rsDPK1fuGsLCgrljY0-1" value="工控机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="180" width="120" height="360" as="geometry" />
+        <mxCell id="V_rsDPK1fuGsLCgrljY0-1" value="工控机&lt;div&gt;（上位机）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="130" width="120" height="360" as="geometry" />
         </mxCell>
         <mxCell id="V_rsDPK1fuGsLCgrljY0-2" value="仓储感知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="160" width="120" height="60" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="140" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V_rsDPK1fuGsLCgrljY0-4" value="电源模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
