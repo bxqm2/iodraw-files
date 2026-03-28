@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-15" value="机器人端" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="355" width="265" height="230" as="geometry" />
+          <mxGeometry x="255" y="355" width="255" height="230" as="geometry" />
         </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v524W4K-b3iUWriyasiB-15" source="v524W4K-b3iUWriyasiB-16" target="v524W4K-b3iUWriyasiB-19">
           <mxGeometry relative="1" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="100" y="115" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-31" value="通讯&lt;div&gt;模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="v524W4K-b3iUWriyasiB-15">
-          <mxGeometry x="205" y="20" width="40" height="210" as="geometry" />
+          <mxGeometry x="205" y="30" width="40" height="195" as="geometry" />
         </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="v524W4K-b3iUWriyasiB-16" target="v524W4K-b3iUWriyasiB-12">
           <mxGeometry relative="1" as="geometry" />
