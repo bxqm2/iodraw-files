@@ -37,7 +37,7 @@
         <mxCell id="v524W4K-b3iUWriyasiB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="v524W4K-b3iUWriyasiB-3" target="v524W4K-b3iUWriyasiB-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v524W4K-b3iUWriyasiB-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v524W4K-b3iUWriyasiB-10">
+        <mxCell id="v524W4K-b3iUWriyasiB-33" value="环境信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v524W4K-b3iUWriyasiB-10">
           <mxGeometry x="0.0455" y="2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -83,6 +83,11 @@
         </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="v524W4K-b3iUWriyasiB-5" target="v524W4K-b3iUWriyasiB-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v524W4K-b3iUWriyasiB-34" value="&amp;nbsp; &amp;nbsp; 货品信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v524W4K-b3iUWriyasiB-32">
+          <mxGeometry x="-0.2955" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
