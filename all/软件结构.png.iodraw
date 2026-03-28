@@ -94,7 +94,7 @@
         <mxCell id="V_rsDPK1fuGsLCgrljY0-38" value="蜂鸣器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="370" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V_rsDPK1fuGsLCgrljY0-39" value="照明信号灯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V_rsDPK1fuGsLCgrljY0-39" value="照明与信号灯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="420" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
