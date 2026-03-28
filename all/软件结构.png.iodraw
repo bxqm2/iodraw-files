@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-15" value="机器人端" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="450" width="210" height="230" as="geometry" />
+          <mxGeometry x="10" y="440" width="210" height="230" as="geometry" />
         </mxCell>
         <mxCell id="v524W4K-b3iUWriyasiB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="v524W4K-b3iUWriyasiB-15" source="v524W4K-b3iUWriyasiB-16" target="v524W4K-b3iUWriyasiB-19">
           <mxGeometry relative="1" as="geometry" />
