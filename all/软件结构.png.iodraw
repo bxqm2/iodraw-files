@@ -84,10 +84,8 @@
         <mxCell id="v524W4K-b3iUWriyasiB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="v524W4K-b3iUWriyasiB-5" target="v524W4K-b3iUWriyasiB-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v524W4K-b3iUWriyasiB-34" value="&amp;nbsp; &amp;nbsp; 货品信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="v524W4K-b3iUWriyasiB-32">
-          <mxGeometry x="-0.2955" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="v524W4K-b3iUWriyasiB-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="38" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
