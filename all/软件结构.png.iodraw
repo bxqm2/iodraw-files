@@ -44,10 +44,10 @@
           <mxGeometry x="660" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V_rsDPK1fuGsLCgrljY0-11" value="环境传感器&lt;div&gt;（温度、湿度）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="90" width="120" height="40" as="geometry" />
+          <mxGeometry x="-20" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V_rsDPK1fuGsLCgrljY0-20" value="RFID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="160" width="120" height="40" as="geometry" />
+          <mxGeometry x="-20" y="170" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
