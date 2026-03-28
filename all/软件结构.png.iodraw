@@ -49,8 +49,8 @@
         <mxCell id="V_rsDPK1fuGsLCgrljY0-20" value="RFID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="170" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V_rsDPK1fuGsLCgrljY0-22" value="RFID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="180" width="120" height="40" as="geometry" />
+        <mxCell id="V_rsDPK1fuGsLCgrljY0-22" value="2D相机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="220" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
