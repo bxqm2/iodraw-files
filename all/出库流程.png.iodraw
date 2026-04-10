@@ -46,7 +46,7 @@
         <mxCell id="0zO91f6fLmlza_f7x4CV-12" value="写入出库记录表" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0zO91f6fLmlza_f7x4CV-14" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="0zO91f6fLmlza_f7x4CV-14" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
