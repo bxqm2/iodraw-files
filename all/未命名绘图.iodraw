@@ -78,7 +78,7 @@
           <mxGeometry x="490" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f8dEnlZa11qr-zYA3q8X-22" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="345" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f8dEnlZa11qr-zYA3q8X-24" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="340" width="60" height="30" as="geometry" />
