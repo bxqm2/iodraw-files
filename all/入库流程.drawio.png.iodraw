@@ -29,7 +29,7 @@
           <mxGeometry x="70" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDn7Kpaznk-rnMDZaKAy-5" value="生成二维码" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="584.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDn7Kpaznk-rnMDZaKAy-6" value="写入入库记录表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="310" width="120" height="60" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="290" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UDn7Kpaznk-rnMDZaKAy-16" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="555" width="60" height="30" as="geometry" />
+          <mxGeometry x="190" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
