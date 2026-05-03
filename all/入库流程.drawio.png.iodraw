@@ -22,9 +22,6 @@
         <mxCell id="UDn7Kpaznk-rnMDZaKAy-3" value="创建货品数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UDn7Kpaznk-rnMDZaKAy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UDn7Kpaznk-rnMDZaKAy-4" target="UDn7Kpaznk-rnMDZaKAy-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UDn7Kpaznk-rnMDZaKAy-4" value="货位分配" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -41,12 +38,6 @@
           <mxGeometry x="414" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDn7Kpaznk-rnMDZaKAy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UDn7Kpaznk-rnMDZaKAy-7" target="UDn7Kpaznk-rnMDZaKAy-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UDn7Kpaznk-rnMDZaKAy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UDn7Kpaznk-rnMDZaKAy-7" target="UDn7Kpaznk-rnMDZaKAy-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UDn7Kpaznk-rnMDZaKAy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="UDn7Kpaznk-rnMDZaKAy-7" target="UDn7Kpaznk-rnMDZaKAy-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDn7Kpaznk-rnMDZaKAy-7" value="是否有合适&lt;span style=&quot;background-color: initial;&quot;&gt;货位&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
