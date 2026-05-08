@@ -82,6 +82,9 @@
         <mxCell id="0q3osVjAIoC4LQlbaVcv-27" value="货位分配算法设计与验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="440" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="0q3osVjAIoC4LQlbaVcv-28" value="业务流程与数据库设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="380" width="140" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
