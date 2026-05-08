@@ -73,6 +73,9 @@
         <mxCell id="99V5u_bPZNQLHLGZkVeB-24" value="生成下架任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="99V5u_bPZNQLHLGZkVeB-26" value="合规性检查" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
