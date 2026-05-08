@@ -106,9 +106,6 @@
         <mxCell id="99V5u_bPZNQLHLGZkVeB-39" value="A*+DWB路径规划&lt;div&gt;至目标点&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="99V5u_bPZNQLHLGZkVeB-43" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
