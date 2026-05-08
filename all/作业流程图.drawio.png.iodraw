@@ -103,8 +103,14 @@
         <mxCell id="99V5u_bPZNQLHLGZkVeB-37" value="nav_to_pose节点&lt;div&gt;发布目标点&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="99V5u_bPZNQLHLGZkVeB-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99V5u_bPZNQLHLGZkVeB-39" target="99V5u_bPZNQLHLGZkVeB-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="99V5u_bPZNQLHLGZkVeB-39" value="A*+DWB路径规划&lt;div&gt;至目标点&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="99V5u_bPZNQLHLGZkVeB-44" value="数据库更新&lt;div&gt;刷新监控画面&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="770" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
