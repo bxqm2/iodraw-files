@@ -43,7 +43,7 @@
         <mxCell id="0q3osVjAIoC4LQlbaVcv-15" value="第二章 总体方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="333.5" y="200" width="91" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0q3osVjAIoC4LQlbaVcv-16" value="系统架构与需求分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0q3osVjAIoC4LQlbaVcv-16" value="硬件选型与开发配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="230" width="220" height="45" as="geometry" />
         </mxCell>
       </root>
