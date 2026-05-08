@@ -85,7 +85,7 @@
         <mxCell id="99V5u_bPZNQLHLGZkVeB-30" value="任务下发至ROS2&lt;div&gt;导航系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="99V5u_bPZNQLHLGZkVeB-31" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="99V5u_bPZNQLHLGZkVeB-31" value="QR二维码定位&lt;div&gt;获取初始位姿&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
