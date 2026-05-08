@@ -28,6 +28,9 @@
         <mxCell id="99V5u_bPZNQLHLGZkVeB-8" value="入库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="130" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="99V5u_bPZNQLHLGZkVeB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99V5u_bPZNQLHLGZkVeB-9" target="99V5u_bPZNQLHLGZkVeB-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="99V5u_bPZNQLHLGZkVeB-9" value="出库信息录入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -48,6 +51,9 @@
         </mxCell>
         <mxCell id="99V5u_bPZNQLHLGZkVeB-16" value="货位分配算法计算&lt;div&gt;输出最佳货位&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="99V5u_bPZNQLHLGZkVeB-18" value="出库信息录入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
