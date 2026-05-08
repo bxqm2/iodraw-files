@@ -46,7 +46,7 @@
         <mxCell id="99V5u_bPZNQLHLGZkVeB-14" value="筛选符合约束的货位" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="99V5u_bPZNQLHLGZkVeB-16" value="货位分配算法计算，输出最佳货位" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="99V5u_bPZNQLHLGZkVeB-16" value="货位分配算法计算&lt;div&gt;输出最佳货位&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
