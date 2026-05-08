@@ -91,7 +91,7 @@
         <mxCell id="0q3osVjAIoC4LQlbaVcv-31" value="仓储监控人机交互开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="510" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0q3osVjAIoC4LQlbaVcv-32" value="货位分配算法设计与验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0q3osVjAIoC4LQlbaVcv-32" value="ROS2 Nav2 导航框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="440" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0q3osVjAIoC4LQlbaVcv-33" value="第五章 视觉检测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
