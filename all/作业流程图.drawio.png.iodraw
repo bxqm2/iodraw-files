@@ -19,8 +19,8 @@
         <mxCell id="99V5u_bPZNQLHLGZkVeB-6" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="99V5u_bPZNQLHLGZkVeB-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="130" width="60" height="30" as="geometry" />
+        <mxCell id="99V5u_bPZNQLHLGZkVeB-8" value="入库" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
