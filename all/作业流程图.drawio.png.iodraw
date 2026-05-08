@@ -67,25 +67,8 @@
         <mxCell id="99V5u_bPZNQLHLGZkVeB-20" value="货位分配算法计算" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="99V5u_bPZNQLHLGZkVeB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="99V5u_bPZNQLHLGZkVeB-22" target="99V5u_bPZNQLHLGZkVeB-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="190" y="555" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="99V5u_bPZNQLHLGZkVeB-22" value="生成上架任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="450" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="99V5u_bPZNQLHLGZkVeB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="99V5u_bPZNQLHLGZkVeB-24" target="99V5u_bPZNQLHLGZkVeB-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="490" y="530" />
-              <mxPoint x="420" y="530" />
-              <mxPoint x="420" y="555" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="99V5u_bPZNQLHLGZkVeB-24" value="生成下架任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="450" width="120" height="60" as="geometry" />
