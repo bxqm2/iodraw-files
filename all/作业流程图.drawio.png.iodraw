@@ -59,10 +59,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="99V5u_bPZNQLHLGZkVeB-18" value="信息检索" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="99V5u_bPZNQLHLGZkVeB-20" value="货位分配算法计算" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="99V5u_bPZNQLHLGZkVeB-22" value="生成上架任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="450" width="120" height="60" as="geometry" />
