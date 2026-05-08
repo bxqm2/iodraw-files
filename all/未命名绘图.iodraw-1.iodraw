@@ -88,7 +88,7 @@
         <mxCell id="0q3osVjAIoC4LQlbaVcv-30" value="QR二维码全局定位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="370" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0q3osVjAIoC4LQlbaVcv-31" value="仓储监控人机交互开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0q3osVjAIoC4LQlbaVcv-31" value="A*+DWB路径规划实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="510" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0q3osVjAIoC4LQlbaVcv-32" value="ROS2 Nav2 导航框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
