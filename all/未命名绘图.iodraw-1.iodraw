@@ -37,11 +37,11 @@
         <mxCell id="0q3osVjAIoC4LQlbaVcv-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="520" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0q3osVjAIoC4LQlbaVcv-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0q3osVjAIoC4LQlbaVcv-14" value="系统架构与需求分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="230" width="220" height="45" as="geometry" />
         </mxCell>
         <mxCell id="0q3osVjAIoC4LQlbaVcv-15" value="第二章 总体方案" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="349" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="333.5" y="200" width="91" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
