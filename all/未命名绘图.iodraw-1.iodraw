@@ -70,8 +70,8 @@
             <mxPoint x="390" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0q3osVjAIoC4LQlbaVcv-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="420" width="60" height="30" as="geometry" />
+        <mxCell id="0q3osVjAIoC4LQlbaVcv-24" value="第三章 货位分配" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="335" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
