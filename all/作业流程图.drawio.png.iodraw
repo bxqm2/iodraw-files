@@ -112,6 +112,9 @@
         <mxCell id="99V5u_bPZNQLHLGZkVeB-44" value="数据库更新&lt;div&gt;刷新监控画面&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="770" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="99V5u_bPZNQLHLGZkVeB-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
