@@ -103,7 +103,7 @@
         <mxCell id="0q3osVjAIoC4LQlbaVcv-35" value="仓储监控人机交互开发" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="510" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0q3osVjAIoC4LQlbaVcv-36" value="货位分配算法设计与验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0q3osVjAIoC4LQlbaVcv-36" value="货位检测数据集的制作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="440" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
