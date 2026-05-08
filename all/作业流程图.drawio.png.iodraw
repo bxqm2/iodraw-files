@@ -97,8 +97,8 @@
         <mxCell id="99V5u_bPZNQLHLGZkVeB-31" value="QR二维码定位&lt;div&gt;获取初始位姿&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="99V5u_bPZNQLHLGZkVeB-37" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="99V5u_bPZNQLHLGZkVeB-37" value="nav_to_pose节点发布目标点" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
