@@ -13,14 +13,25 @@
         <mxCell id="L9-ql3KgTyVaIPIhctmP-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="L9-ql3KgTyVaIPIhctmP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L9-ql3KgTyVaIPIhctmP-2" target="L9-ql3KgTyVaIPIhctmP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L9-ql3KgTyVaIPIhctmP-2" value="扫描二维码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L9-ql3KgTyVaIPIhctmP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L9-ql3KgTyVaIPIhctmP-4" target="L9-ql3KgTyVaIPIhctmP-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="210" />
+              <mxPoint x="200" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="L9-ql3KgTyVaIPIhctmP-4" value="表格批量导入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L9-ql3KgTyVaIPIhctmP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
