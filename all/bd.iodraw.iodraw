@@ -85,8 +85,11 @@
         <mxCell id="aE39qi4WlATZv92-moFW-25" value="保存标定参数" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aE39qi4WlATZv92-moFW-29" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="640" width="60" height="30" as="geometry" />
+        <mxCell id="aE39qi4WlATZv92-moFW-29" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aE39qi4WlATZv92-moFW-30" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="500" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
