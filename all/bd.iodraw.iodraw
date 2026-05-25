@@ -58,7 +58,7 @@
         <mxCell id="aE39qi4WlATZv92-moFW-17" value="标定参数计算" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aE39qi4WlATZv92-moFW-21" value="平均重投影误差&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aE39qi4WlATZv92-moFW-21" value="平均重投影误差&lt;div&gt;＜0.5？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="282.5" y="660" width="115" height="120" as="geometry" />
         </mxCell>
       </root>
