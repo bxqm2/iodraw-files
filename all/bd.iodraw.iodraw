@@ -31,6 +31,9 @@
         <mxCell id="aE39qi4WlATZv92-moFW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aE39qi4WlATZv92-moFW-10" target="aE39qi4WlATZv92-moFW-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aE39qi4WlATZv92-moFW-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aE39qi4WlATZv92-moFW-10" target="aE39qi4WlATZv92-moFW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aE39qi4WlATZv92-moFW-10" value="角点验证&lt;div&gt;是否全部检测成功&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="282.5" y="380" width="115" height="120" as="geometry" />
         </mxCell>
@@ -46,6 +49,9 @@
         </mxCell>
         <mxCell id="aE39qi4WlATZv92-moFW-14" value="丢弃对应图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aE39qi4WlATZv92-moFW-17" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="610" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
