@@ -50,8 +50,14 @@
         <mxCell id="aE39qi4WlATZv92-moFW-14" value="丢弃对应图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aE39qi4WlATZv92-moFW-17" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aE39qi4WlATZv92-moFW-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aE39qi4WlATZv92-moFW-17" target="aE39qi4WlATZv92-moFW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aE39qi4WlATZv92-moFW-17" value="标定参数计算" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aE39qi4WlATZv92-moFW-19" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="660" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
