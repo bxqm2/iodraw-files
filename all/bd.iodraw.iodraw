@@ -68,6 +68,11 @@
             <mxPoint x="340" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aE39qi4WlATZv92-moFW-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aE39qi4WlATZv92-moFW-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aE39qi4WlATZv92-moFW-21" value="平均重投影误差&lt;div&gt;＜0.5？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="282.5" y="620" width="115" height="120" as="geometry" />
         </mxCell>
