@@ -7,6 +7,9 @@
         <mxCell id="L9-ql3KgTyVaIPIhctmP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L9-ql3KgTyVaIPIhctmP-1" target="L9-ql3KgTyVaIPIhctmP-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="L9-ql3KgTyVaIPIhctmP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="L9-ql3KgTyVaIPIhctmP-1" target="L9-ql3KgTyVaIPIhctmP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L9-ql3KgTyVaIPIhctmP-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -14,7 +17,7 @@
           <mxGeometry x="60" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L9-ql3KgTyVaIPIhctmP-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
