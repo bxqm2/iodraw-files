@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aE39qi4WlATZv92-moFW-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;角点检测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="275" y="260" width="130" height="60" as="geometry" />
+          <mxGeometry x="275" y="260" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8-vsy9UDvwXcVmkjGJWr-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aE39qi4WlATZv92-moFW-10" target="aE39qi4WlATZv92-moFW-17">
           <mxGeometry relative="1" as="geometry" />
