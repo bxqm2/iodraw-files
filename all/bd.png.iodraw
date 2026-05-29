@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aE39qi4WlATZv92-moFW-14" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;丢弃对应图像&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="130" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="220" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="8-vsy9UDvwXcVmkjGJWr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aE39qi4WlATZv92-moFW-17" target="8-vsy9UDvwXcVmkjGJWr-18">
           <mxGeometry relative="1" as="geometry" />
@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aE39qi4WlATZv92-moFW-25" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;保存&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;标定参数&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="280" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="630" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="8-vsy9UDvwXcVmkjGJWr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8-vsy9UDvwXcVmkjGJWr-18" target="aE39qi4WlATZv92-moFW-25">
           <mxGeometry relative="1" as="geometry" />
