@@ -63,6 +63,9 @@
         <mxCell id="M3IpNsVMJk9p3LTLa-3K-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M3IpNsVMJk9p3LTLa-3K-2" target="UDn7Kpaznk-rnMDZaKAy-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="M3IpNsVMJk9p3LTLa-3K-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M3IpNsVMJk9p3LTLa-3K-2" target="P0GpJLJF9eV_9SpCOjtV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M3IpNsVMJk9p3LTLa-3K-2" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;有无合适货位&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="35" y="415" width="190" height="70" as="geometry" />
         </mxCell>
