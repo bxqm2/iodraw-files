@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UDn7Kpaznk-rnMDZaKAy-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;分配&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;合适货位&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="70" y="520" width="120" height="45" as="geometry" />
+          <mxGeometry x="70" y="520" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="P0GpJLJF9eV_9SpCOjtV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="UDn7Kpaznk-rnMDZaKAy-6" target="P0GpJLJF9eV_9SpCOjtV-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
