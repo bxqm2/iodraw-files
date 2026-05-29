@@ -37,9 +37,6 @@
         <mxCell id="P0GpJLJF9eV_9SpCOjtV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UDn7Kpaznk-rnMDZaKAy-7" target="UDn7Kpaznk-rnMDZaKAy-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P0GpJLJF9eV_9SpCOjtV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UDn7Kpaznk-rnMDZaKAy-7" target="P0GpJLJF9eV_9SpCOjtV-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UDn7Kpaznk-rnMDZaKAy-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;是否有合适&lt;span style=&quot;background-color: initial;&quot;&gt;货位&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="410" width="120" height="100" as="geometry" />
         </mxCell>
@@ -47,13 +44,10 @@
           <mxGeometry x="70" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UDn7Kpaznk-rnMDZaKAy-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="510" width="60" height="30" as="geometry" />
+          <mxGeometry x="140" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P0GpJLJF9eV_9SpCOjtV-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;是&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="170" y="460" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P0GpJLJF9eV_9SpCOjtV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="P0GpJLJF9eV_9SpCOjtV-12" target="P0GpJLJF9eV_9SpCOjtV-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P0GpJLJF9eV_9SpCOjtV-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;货位分配失败&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="540" width="120" height="60" as="geometry" />
