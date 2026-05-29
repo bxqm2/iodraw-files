@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8-vsy9UDvwXcVmkjGJWr-29" value="重新采集图像" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="435" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="354.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
